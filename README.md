@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviarasanmani&label=Profile%20views&color=0e75b6&style=flat" alt="kaviarasanmani" /> </p>
 
-- 🔭 I’m currently working on [Poorvika Mobiles Pvt ltd](As python Developer)
+- 🔭 I’m currently working on Poorvika Mobiles Pvt ltd (As python Developer)
 
 - 🌱 I’m currently learning **Flask and Machine Learning**
 
