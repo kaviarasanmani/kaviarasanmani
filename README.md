@@ -125,15 +125,4 @@ API Integration   ██░░░░░░░░░░░░░░░░░░�
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building MediScrub-AI: Challenges in Healthcare AI Development](https://yourblog.com/mediscrub-ai-development-challenges)
-- [The Power of Swift: Creating Intuitive iOS Apps for Healthcare](https://yourblog.com/swift-ios-apps-healthcare)
-- [Balancing Backend and Frontend: Full-Stack Development for Modern Apps](https://yourblog.com/full-stack-development-modern-apps)
-- [Leveraging AI in AdTech: The Journey of Building Athena](https://yourblog.com/ai-adtech-athena-development)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-
 <h3 align="center">Thanks for visiting! Join me on this exciting journey of full-stack innovation! 😊</h3>
