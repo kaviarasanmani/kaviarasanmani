@@ -1,9 +1,11 @@
+---
+
 <h1 align="center">Kaviarasan Mani</h1>
-<h3 align="center">Full-Stack Innovator | AI Specialist | Healthcare & AdTech Pioneer</h3>
+<h3 align="center">Automation Engineer | Web Scraping Specialist | Python Developer | Scalable Solutions Architect</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaviarasanmani&label=Profile%20views&color=0e75b6&style=flat" alt="kaviarasanmani" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Integration-brightgreen" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Scalability-brightgreen" alt="Focus">
   <img src="https://img.shields.io/badge/Location-India-success" alt="Location">
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" alt="Languages">
 </p>
@@ -18,19 +20,19 @@
 
 ---
 
-### 🚀 Transforming Ideas into Cutting-Edge Solutions
+### 🚀 Building Scalable Automation Solutions & Web Scrapers
 
-With a passion for leveraging technology to solve real-world problems, I bring a unique blend of full-stack expertise and AI innovation to every project. My mission is to create game-changing applications that revolutionize healthcare and digital marketing landscapes.
+As an **Automation Engineer** with a passion for building scalable systems, I specialize in creating **elegant Python solutions** that tackle complex challenges—especially in **web scraping** and **data-driven insights**. I thrive on building automated systems that make a tangible impact, whether it's through efficient web scraping, automated testing frameworks, or optimizing performance for large-scale data processing.
 
 ---
 
 ### 🌟 What Sets Me Apart
 
-- **Full-Stack Mastery**: Seamlessly bridging backend robustness with sleek frontend experiences
-- **AI Integration Specialist**: Harnessing the power of machine learning for intelligent, adaptive solutions
-- **Healthcare Tech Innovator**: Developing tools that enhance patient care and streamline medical processes
-- **AdTech Pioneer**: Crafting next-gen marketing solutions that drive unprecedented ROI
-- **Multilingual Development**: Fluent in Python, Swift, and the language of innovation
+- **Web Scraping Mastery**: Designing robust, scalable scrapers that handle dynamic content, anti-bot measures, and rate limiting
+- **Automation Excellence**: Developing testing frameworks and automating repetitive processes to improve efficiency and quality
+- **Python Solutions Architect**: Delivering clean, maintainable code that solves real business problems
+- **Performance Optimization**: Ensuring high performance and low latency across large datasets
+- **Data-Driven Insights**: Using automation to extract actionable insights from complex data sets, driving smarter decision-making
 
 ---
 
@@ -40,10 +42,8 @@ With a passion for leveraging technology to solve real-world problems, I bring a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
@@ -53,20 +53,16 @@ With a passion for leveraging technology to solve real-world problems, I bring a
 
 ### 🏆 Highlighted Projects
 
-#### MediScrub-AI: Revolutionizing Medical Documentation
-- AI-powered transcription and analysis of doctor-patient conversations
-- Automatic generation of SOAP notes, saving hours of administrative work
-- Intelligent medication recommendations for enhanced patient care
+#### Distributed Web Scraping System: Scalable Insights for Business Intelligence
+- Engineered a distributed web scraping architecture processing 10K+ records daily with 99.9% accuracy
+- Integrated automated data collection to deliver key market insights for business decision-making
 
-#### Athena: Next-Gen Google Ads Automation
-- AI-driven campaign optimization for maximum ROI
-- Real-time analytics and automated bidding strategies
-- Custom reporting dashboard for data-driven decision making
+#### Automated Testing Framework for Web Applications
+- Developed a robust framework that catches bugs before production, ensuring quality and reliability
+- Integrated with CI/CD pipelines to streamline the development process
 
-#### Medical Prescription Translator
-- Bridging the gap between medical jargon and patient understanding
-- Multilingual support for global accessibility
-- Integrated medication reminders for improved patient adherence
+#### Web Performance Optimization for SEO & User Engagement
+- Designed automation solutions to analyze and optimize web performance, enhancing SEO and user interaction
 
 ---
 
@@ -78,38 +74,25 @@ Explore how to upgrade your Python toolkit with cutting-edge libraries that boos
 
 ---
 
-### 🌱 Continuous Innovation
+### 🌱 Currently Exploring
 
-Currently expanding my expertise in:
-- Advanced Machine Learning techniques
-- Blockchain integration in healthcare
-- Quantum computing applications in AdTech
+- Advanced browser automation techniques
+- Machine learning for intelligent web scraping
+- Performance optimization for large-scale data processing
+- iOS development with Swift
 
 ---
 
 ### 📈 The Impact I Bring
 
-- **Efficiency**: Automate tedious tasks, allowing professionals to focus on what matters most
-- **Accuracy**: Leverage AI to minimize human error and enhance decision-making
-- **Innovation**: Push the boundaries of what's possible in healthcare and digital marketing
-- **User-Centric Design**: Create intuitive interfaces that users love to engage with
-- **Scalability**: Build solutions that grow with your business needs
+- **Efficiency**: Automate manual processes, reducing human error and improving speed
+- **Scalability**: Build systems that grow with your business, capable of handling millions of records
+- **Accuracy**: Leverage automation to ensure reliable, accurate results with minimal intervention
+- **Innovation**: Apply cutting-edge techniques in web scraping and automation to create transformative solutions
 
 ---
 
-### 📊 This Week I Spent My Time On
-
-```text
-Python (Backend)   ███████████░░░░░░░░░░░   45%
-Swift (iOS)        ██████░░░░░░░░░░░░░░░░   25%
-AI/ML Development  ████░░░░░░░░░░░░░░░░░░   15%
-Database Design    ███░░░░░░░░░░░░░░░░░░░   10%
-API Integration    ██░░░░░░░░░░░░░░░░░░░░   5%
-```
-
----
-
-### 🤝 Let's Connect and Create Something Extraordinary
+### 🤝 Let’s Collaborate
 
 <p align="center">
   <a href="https://linkedin.com/in/kaviarasanmani/" target="_blank">
@@ -123,10 +106,12 @@ API Integration    ██░░░░░░░░░░░░░░░░░░�
   </a>
 </p>
 
-Are you ready to transform your ideas into reality? Let's explore how we can leverage cutting-edge technology to solve your most pressing challenges.
+Let’s explore how we can collaborate to solve complex technical problems with scalable, automated solutions. Reach out if you’re looking to optimize your processes, develop intelligent scraping systems, or build performance-driven applications!
 
 ---
 
-<h3 align="center">"Innovation distinguishes between a leader and a follower." - Steve Jobs</h3>
+<h3 align="center">"The best way to predict the future is to invent it." - Alan Kay</h3>
 
-<p align="center">Embark on a journey of technological innovation with a developer who turns vision into reality. Let's build the future, one line of code at a time.</p>
+<p align="center">Let’s build the future of automation, one line of code at a time.</p>
+
+---
