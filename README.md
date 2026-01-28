@@ -19,28 +19,29 @@ SDET III | Data Engineering & ETL Automation | Python | Azure Databricks (Learni
 
 ---
 
-## 🚀 Building Reliable Data Pipelines & Automation Systems
+## 🚀 About Me
 
-I am a **Senior SDET (SDET III)** with hands-on experience in **ETL automation testing, API validation, and data pipeline reliability**.  
-My work focuses on ensuring that **data ingestion and transformation systems are accurate, scalable, and resilient** under real-world constraints.
+I am a **Senior SDET (SDET III)** with hands-on experience in **ETL automation testing, API validation, and data pipeline reliability**.
+
+My work focuses on ensuring that **data ingestion and transformation systems are accurate, scalable, and resilient** in real-world production environments.
 
 I am currently expanding into **Data Engineering**, with a strong focus on **Python-based pipelines and Azure Databricks**.
 
 ---
 
-## 🌟 What I Focus On
+## 🌟 What I Work On
 
 - **ETL Automation & Data Validation**  
   Designing automated checks to validate data quality, schema consistency, and pipeline reliability.
 
-- **API & Ingestion Testing**  
-  Testing and validating external data sources to handle failures, limits, and schema drift.
+- **API & Data Ingestion Testing**  
+  Validating external data sources to handle failures, rate limits, and schema drift.
 
 - **Data Engineering Foundations**  
-  Building ingestion pipelines that transform raw data into analytics-ready datasets.
+  Building ingestion pipelines that convert raw data into analytics-ready datasets.
 
 - **Reliability & Observability**  
-  Ensuring pipelines fail gracefully, report partial failures, and remain maintainable.
+  Ensuring pipelines fail gracefully and provide meaningful diagnostics.
 
 - **Scalable Python Solutions**  
   Writing clean, testable, and maintainable Python code for data workflows.
@@ -77,8 +78,7 @@ I am currently expanding into **Data Engineering**, with a strong focus on **Pyt
 
 ## 📝 Writing & Knowledge Sharing
 
-- **Medium**:  
-  Writing about real-world engineering problems, automation, and data reliability.  
+- Writing about **data engineering, automation, and real-world pipeline challenges** on Medium.  
   👉 <a href="https://medium.com/@kavim1996" target="_blank">medium.com/@kavim1996</a>
 
 ---
@@ -97,7 +97,7 @@ I am currently expanding into **Data Engineering**, with a strong focus on **Pyt
 - Strong **data reliability mindset**
 - Experience bridging **testing and data engineering**
 - Focus on **real-world constraints**, not just happy paths
-- Ability to build **testable, scalable data pipelines**
+- Ability to build **scalable, testable data pipelines**
 
 ---
 
