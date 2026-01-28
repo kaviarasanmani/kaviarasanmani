@@ -1,117 +1,122 @@
----
-
 <h1 align="center">Kaviarasan Mani</h1>
-<h3 align="center">Automation Engineer | Web Scraping Specialist | Python Developer | Scalable Solutions Architect</h3>
+<h3 align="center">
+SDET III | Data Engineering & ETL Automation | Python | Azure Databricks (Learning)
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaviarasanmani&label=Profile%20views&color=0e75b6&style=flat" alt="kaviarasanmani" />
-  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Scalability-brightgreen" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-India-success" alt="Location">
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" alt="Languages">
+  <img src="https://komarev.com/ghpvc/?username=kaviarasanmani&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Reliability%20%26%20ETL-brightgreen" />
+  <img src="https://img.shields.io/badge/Location-India-success" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaviarasanmani&show_icons=true&theme=radical" alt="kaviarasanmani's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaviarasanmani&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviarasanmani&theme=radical" alt="kaviarasanmani's GitHub Streak" />
-</p>
-
----
-
-### 🚀 Building Scalable Automation Solutions & Web Scrapers
-
-As an **Automation Engineer** with a passion for building scalable systems, I specialize in creating **elegant Python solutions** that tackle complex challenges—especially in **web scraping** and **data-driven insights**. I thrive on building automated systems that make a tangible impact, whether it's through efficient web scraping, automated testing frameworks, or optimizing performance for large-scale data processing.
-
----
-
-### 🌟 What Sets Me Apart
-
-- **Web Scraping Mastery**: Designing robust, scalable scrapers that handle dynamic content, anti-bot measures, and rate limiting
-- **Automation Excellence**: Developing testing frameworks and automating repetitive processes to improve efficiency and quality
-- **Python Solutions Architect**: Delivering clean, maintainable code that solves real business problems
-- **Performance Optimization**: Ensuring high performance and low latency across large datasets
-- **Data-Driven Insights**: Using automation to extract actionable insights from complex data sets, driving smarter decision-making
-
----
-
-### 💼 Core Competencies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaviarasanmani&theme=radical" />
 </p>
 
 ---
 
-### 🏆 Highlighted Projects
+## 🚀 Building Reliable Data Pipelines & Automation Systems
 
-#### Distributed Web Scraping System: Scalable Insights for Business Intelligence
-- Engineered a distributed web scraping architecture processing 10K+ records daily with 99.9% accuracy
-- Integrated automated data collection to deliver key market insights for business decision-making
+I am a **Senior SDET (SDET III)** with hands-on experience in **ETL automation testing, API validation, and data pipeline reliability**.  
+My work focuses on ensuring that **data ingestion and transformation systems are accurate, scalable, and resilient** under real-world constraints.
 
-#### Automated Testing Framework for Web Applications
-- Developed a robust framework that catches bugs before production, ensuring quality and reliability
-- Integrated with CI/CD pipelines to streamline the development process
-
-#### Web Performance Optimization for SEO & User Engagement
-- Designed automation solutions to analyze and optimize web performance, enhancing SEO and user interaction
+I am currently expanding into **Data Engineering**, with a strong focus on **Python-based pipelines and Azure Databricks**.
 
 ---
 
-### 📝 Latest Blog Post
+## 🌟 What I Focus On
 
-<a href="https://medium.com/@kavim1996/revolutionize-your-python-7-modern-replacements-for-outdated-libraries-52290f574f8a" target="_blank">Revolutionize Your Python: 7 Modern Replacements for Outdated Libraries</a>
+- **ETL Automation & Data Validation**  
+  Designing automated checks to validate data quality, schema consistency, and pipeline reliability.
 
-Explore how to upgrade your Python toolkit with cutting-edge libraries that boost performance and simplify your code.
+- **API & Ingestion Testing**  
+  Testing and validating external data sources to handle failures, limits, and schema drift.
 
----
+- **Data Engineering Foundations**  
+  Building ingestion pipelines that transform raw data into analytics-ready datasets.
 
-### 🌱 Currently Exploring
+- **Reliability & Observability**  
+  Ensuring pipelines fail gracefully, report partial failures, and remain maintainable.
 
-- Advanced browser automation techniques
-- Machine learning for intelligent web scraping
-- Performance optimization for large-scale data processing
-- iOS development with Swift
-
----
-
-### 📈 The Impact I Bring
-
-- **Efficiency**: Automate manual processes, reducing human error and improving speed
-- **Scalability**: Build systems that grow with your business, capable of handling millions of records
-- **Accuracy**: Leverage automation to ensure reliable, accurate results with minimal intervention
-- **Innovation**: Apply cutting-edge techniques in web scraping and automation to create transformative solutions
+- **Scalable Python Solutions**  
+  Writing clean, testable, and maintainable Python code for data workflows.
 
 ---
 
-### 🤝 Let’s Collaborate
+## 💼 Core Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Testing-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Azure%20Databricks-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 📈 NSE / BSE Stock Market Data Ingestion Pipeline
+- Built a Python-based data ingestion pipeline to fetch and normalize Indian stock market data.
+- Implemented handling for **intraday data limits, schema inconsistencies, timezone issues, and partial failures**.
+- Delivered analytics-ready OHLCV datasets via CSV/Excel using a Streamlit-based control layer.
+
+### 🧪 ETL Automation & Data Validation Framework
+- Designed automated validation checks for ETL pipelines.
+- Ensured schema integrity, null handling, and data consistency across ingestion stages.
+- Reduced downstream failures through early detection of data quality issues.
+
+---
+
+## 📝 Writing & Knowledge Sharing
+
+- **Medium**:  
+  Writing about real-world engineering problems, automation, and data reliability.  
+  👉 <a href="https://medium.com/@kavim1996" target="_blank">medium.com/@kavim1996</a>
+
+---
+
+## 🌱 Currently Learning
+
+- Azure Databricks & PySpark
+- Distributed data processing concepts
+- Data quality engineering practices
+- Cloud-based data platforms
+
+---
+
+## 📌 What I Bring to Teams
+
+- Strong **data reliability mindset**
+- Experience bridging **testing and data engineering**
+- Focus on **real-world constraints**, not just happy paths
+- Ability to build **testable, scalable data pipelines**
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kaviarasanmani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@kavim1996" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:kavikavi41@rocketmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-Let’s explore how we can collaborate to solve complex technical problems with scalable, automated solutions. Reach out if you’re looking to optimize your processes, develop intelligent scraping systems, or build performance-driven applications!
-
 ---
 
-<h3 align="center">"The best way to predict the future is to invent it." - Alan Kay</h3>
-
-<p align="center">Let’s build the future of automation, one line of code at a time.</p>
-
----
+<h3 align="center">
+“Build systems that fail safely, scale reliably, and tell the truth through data.”
+</h3>
