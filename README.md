@@ -26,12 +26,12 @@ pip install validatex
 ## 🚀 Featured: ValidateX
 
 > **A lightweight, production-ready data quality validation framework for Python**
-> Supports Pandas & PySpark • 25+ built-in expectations • Weighted quality scoring • Modern HTML reports
+> Supports Pandas, PySpark & SQL Engines • 50+ built-in expectations • Weighted quality scoring • Modern HTML reports
 
 [![PyPI Latest Version](https://img.shields.io/pypi/v/validatex.svg?style=for-the-badge&logo=pypi&logoColor=white&color=00d4ff)](https://pypi.org/project/validatex/)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/kaviarasanmani/ValidateX/tests.yml?branch=main&style=for-the-badge&logo=github)](https://github.com/kaviarasanmani/ValidateX/actions/workflows/tests.yml)
 [![Code Coverage](https://img.shields.io/badge/coverage-96%25-brightgreen?style=for-the-badge)](https://github.com/kaviarasanmani/ValidateX)
-[![Tests](https://img.shields.io/badge/tests-66%20passed-brightgreen?style=for-the-badge)](https://github.com/kaviarasanmani/ValidateX)
+[![Tests](https://img.shields.io/badge/tests-111%20passed-brightgreen?style=for-the-badge)](https://github.com/kaviarasanmani/ValidateX)
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)](https://github.com/kaviarasanmani/ValidateX/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)](https://pypi.org/project/validatex/)
 
@@ -83,7 +83,7 @@ result.to_html("report.html")    # Beautiful dark-theme HTML report
 - 🔴 **60%** reduction in data quality issues through automated testing frameworks
 - ⚡ **40%** reduction in manual reconciliation effort via Python automation
 - 📊 **10M+** records/day validated across PySpark ETL pipelines
-- 🧪 **96%** code coverage on ValidateX (66 tests passing)
+- 🧪 **96%** code coverage on ValidateX (111 tests passing)
 
 ---
 
